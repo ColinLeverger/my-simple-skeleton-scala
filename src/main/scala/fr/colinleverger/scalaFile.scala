@@ -1,5 +1,5 @@
 package fr.colinleverger
 
-object beerScraperScala extends App {
+object scalaFile extends App {
   println("Hello, scalaFile")
 }
